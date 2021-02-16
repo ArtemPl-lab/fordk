@@ -1,0 +1,11 @@
+{
+  "name": "fondk",
+  "version": "1.0.0",
+  "description": "Capital repair fund",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artem <platonovartem.workup@gmail.com>",
+  "license": "ISC"
+}
